@@ -1,0 +1,10 @@
+# Data and ML
+pandas
+scikit-learn
+statsmodels
+numpy
+
+# Testing
+pytest
+
+# Add other libraries as you need them (e.g., Flask, Plotly)
